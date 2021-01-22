@@ -4,3 +4,6 @@ GoLang,assess,languages & frameworks,FALSE,"GoLang is a fast compiled language w
 C#,adopt,languages & frameworks,FALSE,"With the move to being cross-platform, C# has continued to grow in terms of features and performance as well as relevance for a vast number of use cases."
 NodeJS,adopt,languages & frameworks,FALSE,"Rapid protoyping and development make NodeJS a really handy tool to 'Get Things Done'. However it is also a totally valid contender for production microservices, particularly web/HTTP based."
 Python 3.x,adopt,languages & frameworks,FALSE,"Most of my scripting for home use ends up being written in Python. The file system handling is easy to use, and there are a huge amount of packages to support many types of home workloads. It is simple to learn and use, andhas great support online."
+VS Code,adopt,tools,FALSE,"VS Code is a lightweight code editor/IDE that can support all of the programming languages that I use."
+Test Driven Development,adopt,techniques,"All code that I write is written using TDD to drive it."
+PostgreSQL,adopt,platforms,"PostgreSQL has become my go-to relational database. For a free offering, it has a surprising number of features."
